@@ -14,7 +14,7 @@ export function AudioProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     const audio = new Audio(
-      '/public/pluck.mp3',
+      '/pluck.mp3',
     );
     audio.loop = true;
     audio.volume = 0.25;
