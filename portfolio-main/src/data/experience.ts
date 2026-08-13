@@ -52,7 +52,7 @@ export const EXPERIENCE: TimelineEntry[] = [
   {
     id: 5,
     type: 'education',
-    role: 'B.Sc. Mechatronics Engineering',
+    role: 'B.Eng. Mechatronics Engineering',
     organization: 'Bells University Of Technology, Ota, Nigeria',
     period: '2023 — 2028',
     description:
