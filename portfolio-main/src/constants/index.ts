@@ -34,9 +34,9 @@ export const PERSON = {
   location: 'Lagos, Nigeria',
   email: 'vincentanyanwu11@gmail.com',
   phone: '+234 70 113 88 684',
-  resumeUrl: '/public/cv draft.pdf',
+  resumeUrl: '/cv draft.pdf',
   avatar:
-    '/public/images/me.jpg',
+    '/images/me.jpg',
 };
 
 export const SOCIAL_LINKS = [
@@ -51,6 +51,7 @@ export const EMAILJS_CONFIG = {
   templateId: 'template_cid89wj',
   publicKey: '6cFxrsu9IH44XM9-U',
 } as const;
+
 
 export const TYPING_PHRASES = [
   'Professional Web Developer',
