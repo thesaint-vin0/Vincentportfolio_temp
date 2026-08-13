@@ -27,7 +27,7 @@ export const PROJECTS: Project[] = [
     description:
       'A real-time analytics platform with live charts, team workspaces, and AI-powered insights for modern product teams.',
     image:
-      'public/images/screenshot 2026-08-13 074759.png',
+      '/images/pulse.png',
     tech: ['Next.js', 'TypeScript', 'PostgreSQL', 'Tailwind'],
     github: 'https://github.com/thesaint-vin0/ANALYTICS1',
     demo: 'https://thesaint-vin0.github.io/ANALYTICS1/',
@@ -39,7 +39,7 @@ export const PROJECTS: Project[] = [
     description:
       'A headless storefront with instant search, Paypal checkout, and a product viewer that boosted conversions by 33%.',
     image:
-      'public/images/screenshot 2025-11-20 091852.png',
+      '/images/vast.png',
     tech: ['HTML', 'PayPal', 'CSS', 'JS', 'Node.js'],
     github: 'https://github.com',
     demo: 'https://example.com',
@@ -51,10 +51,10 @@ export const PROJECTS: Project[] = [
     description:
       'An operations control center with customizable widgets, real-time data streams, and granular role-based access.',
     image:
-      'https://images.pexels.com/photos/7681091/pexels-photo-7681091.jpeg?auto=compress&cs=tinysrgb&w=1200',
+      '/images/screenshot 2025-11-20 091852.png',
     tech: ['React', 'Redux', 'Express', 'WebSocket'],
-    github: 'https://github.com',
-    demo: 'https://example.com',
+    github: 'https://github.com/',
+    demo: 'https://',
   },
   {
     id: 4,
@@ -63,33 +63,33 @@ export const PROJECTS: Project[] = [
     description:
       'A corporate website for a B2B consultancy with a CMS, case studies, and a animated storytelling homepage.',
     image:
-      'https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=1200',
+      '/images/screenshot 2025-11-20 091852.png',
     tech: ['Next.js', 'Sanity CMS', 'Framer Motion'],
     github: 'https://github.com',
     demo: 'https://example.com',
   },
   {
     id: 5,
-    title: 'Aurora Portfolio',
+    title: 'Portfolio Template',
     category: 'Portfolio',
     description:
-      'An award-style portfolio for a photographer featuring WebGL transitions and a cinematic full-screen gallery.',
+      'An award-style portfolio for a programmer.',
     image:
-      'https://images.pexels.com/photos/1964451/pexels-photo-1964451.jpeg?auto=compress&cs=tinysrgb&w=1200',
+      '/images/portfolio.png',
     tech: ['React', 'Three.js', 'GSAP', 'Lenis'],
-    github: 'https://github.com',
-    demo: 'https://example.com',
+    github: 'https://github.com/thesaint-vin0/vincent1portfolio',
+    demo: 'https://vincentportfolio-three.vercel.app/',
   },
   {
     id: 6,
-    title: 'Velocity Landing',
+    title: 'NOVA',
     category: 'Landing Page',
     description:
       'A high-converting product launch page with scroll-triggered storytelling and an interactive pricing widget.',
     image:
-      'https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=1200',
+      '/images/nova.png',
     tech: ['React', 'Vite', 'Tailwind', 'Framer Motion'],
-    github: 'https://github.com',
-    demo: 'https://example.com',
+    github: 'https://github.com/thesaint-vin0/NOVA',
+    demo: 'https://nova-seven-olive.vercel.app/',
   },
 ];
