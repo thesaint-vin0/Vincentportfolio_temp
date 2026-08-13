@@ -1,4 +1,4 @@
-# Alex Morgan — 3D Interactive Portfolio
+# Anyanwu Vincent  — 3D Interactive Portfolio
 
 A premium, award-style 3D interactive portfolio for a professional web developer. Built with React, Three.js, Framer Motion, and modern web technologies to deliver a cinematic, high-performance experience.
 
