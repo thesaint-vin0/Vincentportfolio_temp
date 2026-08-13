@@ -14,7 +14,7 @@ export function AudioProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     const audio = new Audio(
-      'https://cdn.pixabay.com/audio/2022/10/30/audio_347111d654.mp3',
+      '/public/pluck.mp3',
     );
     audio.loop = true;
     audio.volume = 0.25;

@@ -43,7 +43,7 @@ export function Loader({ onComplete }: { onComplete?: () => void }) {
         animate={{ opacity: 1, y: 0 }}
         transition={{ delay: 0.15 }}
       >
-        Alex Morgan
+        Anyanwu Vincent
       </motion.h1>
 
       <div className="relative mt-6 h-1 w-56 overflow-hidden rounded-full bg-white/10">

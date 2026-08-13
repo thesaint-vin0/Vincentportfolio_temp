@@ -10,8 +10,8 @@ export type Testimonial = {
 export const TESTIMONIALS: Testimonial[] = [
   {
     id: 1,
-    name: 'Sarah Chen',
-    role: 'Product Manager, Vertex Labs',
+    name: 'Sarah joy',
+    role: 'Product Manager',
     avatar:
       'https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=200',
     rating: 5,
@@ -20,8 +20,8 @@ export const TESTIMONIALS: Testimonial[] = [
   },
   {
     id: 2,
-    name: 'Marcus Reid',
-    role: 'Founder, Lumen Commerce',
+    name: 'Kazeem Nifemi',
+    role: 'sales manager, Vast Nation Commerce',
     avatar:
       'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=200',
     rating: 5,
@@ -30,18 +30,18 @@ export const TESTIMONIALS: Testimonial[] = [
   },
   {
     id: 3,
-    name: 'Elena Petrova',
-    role: 'Creative Director, Aurora Studio',
+    name: 'Favour Igbanibo',
+    role: 'Creative Director',
     avatar:
       'https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=200',
     rating: 5,
     quote:
-      'I have never seen someone translate a design vision so faithfully into code. The WebGL transitions were flawless and the site won an Awwwards Honorable Mention.',
+      'I have never seen someone translate a design vision so faithfully into code. The WebGL transitions were flawless.',
   },
   {
     id: 4,
     name: 'David Okafor',
-    role: 'CTO, Brightwave',
+    role: 'product designer',
     avatar:
       'https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=200',
     rating: 4.5,
@@ -51,7 +51,7 @@ export const TESTIMONIALS: Testimonial[] = [
   {
     id: 5,
     name: 'Priya Sharma',
-    role: 'CEO, Atlas Consulting',
+    role: 'CEO, nastarss Dev',
     avatar:
       'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=200',
     rating: 5,

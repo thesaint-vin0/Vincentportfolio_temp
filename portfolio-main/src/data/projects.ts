@@ -37,7 +37,7 @@ export const PROJECTS: Project[] = [
     title: 'Vast Nation',
     category: 'E-commerce',
     description:
-      'A headless storefront with instant search, PAypal checkout, and a product viewer that boosted conversions by 33%.',
+      'A headless storefront with instant search, Paypal checkout, and a product viewer that boosted conversions by 33%.',
     image:
       'public/images/screenshot 2025-11-20 091852.png',
     tech: ['HTML', 'PayPal', 'CSS', 'JS', 'Node.js'],

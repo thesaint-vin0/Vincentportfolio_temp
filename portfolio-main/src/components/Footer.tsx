@@ -3,9 +3,9 @@ import { ArrowUp, Github, Linkedin, Twitter, Mail, Heart } from 'lucide-react';
 import { PERSON, NAV_LINKS } from '../constants';
 
 const socials = [
-  { label: 'GitHub', href: 'https://github.com', icon: Github },
-  { label: 'LinkedIn', href: 'https://linkedin.com', icon: Linkedin },
-  { label: 'Twitter', href: 'https://twitter.com', icon: Twitter },
+  { label: 'GitHub', href: 'https://github.com/thesaint-vin0', icon: Github },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/vincent-anyanwu-72419b354/', icon: Linkedin },
+  { label: 'Twitter', href: 'https://twitter.com/thesaint1042850', icon: Twitter },
   { label: 'Email', href: `mailto:${PERSON.email}`, icon: Mail },
 ];
 
@@ -103,9 +103,7 @@ export function Footer() {
 
         <div className="mt-14 flex flex-col items-center justify-between gap-4 border-t border-white/10 pt-6 sm:flex-row">
           <p className="flex items-center gap-1.5 text-xs text-muted">
-            © {new Date().getFullYear()} {PERSON.name}. Built with
-            <Heart className="h-3 w-3 fill-primary-400 text-primary-400" />
-            and React.
+            © {new Date().getFullYear()} {PERSON.name}. All rights reserved. Made with <Heart className="h-3 w-3 text-accent-400" />.
           </p>
           <button
             onClick={scrollToTop}

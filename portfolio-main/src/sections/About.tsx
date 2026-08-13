@@ -39,7 +39,7 @@ export function About() {
         <SectionHeading
           eyebrow="About Me"
           title={<>The developer behind the <span className="gradient-text">pixels</span></>}
-          subtitle="A passionate engineer who blends technical precision with creative vision to build experiences people remember."
+          subtitle="A passionate Mechatronics Engineer(Full-Stack Web developer) who blends technical precision with creative vision to build experiences people remember."
         />
 
         <div className="mt-16 grid items-center gap-12 lg:grid-cols-5">
@@ -66,8 +66,8 @@ export function About() {
           <div className="lg:col-span-3">
             <Reveal delay={0.1}>
               <p className="text-lg leading-relaxed text-white/85">
-                I&apos;m a {PERSON.role.toLowerCase()} with 7+ years of experience building
-                products that are fast, beautiful, and scalable. I specialize in React,
+                I&apos;m a {PERSON.role.toLowerCase()} with 3+ years of experience building
+                websites that are fast, beautiful, and scalable. I specialize in React,
                 TypeScript, and creative web technologies like Three.js and GSAP.
               </p>
             </Reveal>
@@ -99,7 +99,7 @@ export function About() {
                   <Mail className="h-4 w-4 text-primary-400" /> {PERSON.email}
                 </span>
                 <span className="inline-flex items-center gap-2">
-                  <Coffee className="h-4 w-4 text-primary-400" /> Fueled by espresso
+                  <Coffee className="h-4 w-4 text-primary-400" /> Fueled by espresso or sprite
                 </span>
               </div>
             </Reveal>
