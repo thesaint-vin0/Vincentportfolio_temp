@@ -47,7 +47,7 @@ export const SOCIAL_LINKS = [
 ] as const;
 
 export const EMAILJS_CONFIG = {
-  serviceId: 'service_pdpb06e',
+  serviceId: 'service_0kd8drk',
   templateId: 'template_cid89wj',
   publicKey: '6cFxrsu9IH44XM9-U',
 } as const;
@@ -57,6 +57,8 @@ export const TYPING_PHRASES = [
   'React & Three.js Engineer',
   'UI/UX Enthusiast',
   'Creative Developer',
+  'Graphics Designer',
+  'Sound Producer',
 ];
 
 export const STATS = [
