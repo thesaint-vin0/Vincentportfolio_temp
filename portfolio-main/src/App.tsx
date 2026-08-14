@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { AnimatePresence } from 'framer-motion';
 import { HelmetProvider } from 'react-helmet-async';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import { ThemeProvider } from './context/ThemeContext';
 import { AudioProvider } from './context/AudioContext';
 import { CustomCursor } from './components/ui/CustomCursor';
@@ -53,6 +54,7 @@ export default function App() {
       <ThemeProvider>
         <AudioProvider>
           <AppContent />
+          <SpeedInsights />
         </AudioProvider>
       </ThemeProvider>
     </HelmetProvider>
