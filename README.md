@@ -1,4 +1,4 @@
-# # Anyanwu Vincent  — 3D Interactive Portfolio
+#  Anyanwu Vincent  — 3D Interactive Portfolio
 
 A premium, award-style 3D interactive portfolio for a professional web developer. Built with React, Three.js, Framer Motion, and modern web technologies to deliver a cinematic, high-performance experience.
 
@@ -97,4 +97,4 @@ Produces an optimized production build in `dist/`.
 
 ## License
 
-MIT — free to use as a template for your own portfolio.
+

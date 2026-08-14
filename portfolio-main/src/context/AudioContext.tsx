@@ -17,7 +17,7 @@ export function AudioProvider({ children }: { children: ReactNode }) {
       '/pluck.mp3',
     );
     audio.loop = true;
-    audio.volume = 0.25;
+    audio.volume = 0.35;
     audio.preload = 'none';
     audioRef.current = audio;
 
