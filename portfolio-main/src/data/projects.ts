@@ -65,7 +65,7 @@ export const PROJECTS: Project[] = [
     image:
       '/images/vast.png',
     tech: ['HTML', 'PayPal', 'CSS', 'JS', 'Node.js'],
-    github: 'https://github.com',
+    github: 'https://github.com/thesaint-vin0/Vast-Nation',
     demo: 'https://example.com',
   },
   {
@@ -77,20 +77,20 @@ export const PROJECTS: Project[] = [
     image:
       '/images/screenshot 2025-11-20 091852.png',
     tech: ['React', 'Redux', 'Express', 'WebSocket'],
-    github: 'https://github.com/',
-    demo: 'https://',
+    github: 'https://github.com/thesaint-vin0/Meridian',
+    demo: 'https://meridian-3r9qfo9nu-vast3.vercel.app',
   },
   {
     id: 6,
-    title: 'Atlas Business',
+    title: 'Meridian Engineering',
     category: 'Business',
     description:
       'A corporate website for a B2B consultancy with a CMS, case studies, and a animated storytelling homepage.',
     image:
-      '/images/screenshot 2025-11-20 091852.png',
+      '/images/screenshot meridian.png',
     tech: ['Next.js', 'Sanity CMS', 'Framer Motion'],
-    github: 'https://github.com',
-    demo: 'https://example.com',
+    github: 'https://github.com/thesaint-vin0/Meridian',
+    demo: 'https://meridian-3r9qfo9nu-vast3.vercel.app',
   },
  
 ];
