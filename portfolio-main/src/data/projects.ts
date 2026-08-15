@@ -87,7 +87,7 @@ export const PROJECTS: Project[] = [
     description:
       'A corporate website for a B2B consultancy with a CMS, case studies, and a animated storytelling homepage.',
     image:
-      '/images/screenshot meridian.png',
+      '/images/meridian.png',
     tech: ['Next.js', 'Sanity CMS', 'Framer Motion'],
     github: 'https://github.com/thesaint-vin0/Meridian',
     demo: 'https://meridian-3r9qfo9nu-vast3.vercel.app',
