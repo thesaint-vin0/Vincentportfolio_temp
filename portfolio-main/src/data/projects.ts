@@ -90,7 +90,7 @@ export const PROJECTS: Project[] = [
       '/images/meridian.png',
     tech: ['Next.js', 'Sanity CMS', 'Framer Motion'],
     github: 'https://github.com/thesaint-vin0/Meridian',
-    demo: 'https://meridian-3r9qfo9nu-vast3.vercel.app',
+    demo: 'meridian-azure-two.vercel.app',
   },
  
 ];
