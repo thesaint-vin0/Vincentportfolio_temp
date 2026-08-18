@@ -63,10 +63,10 @@ export const PROJECTS: Project[] = [
     description:
       'A headless storefront with instant search, Paypal checkout, and a product viewer that boosted conversions by 33%.',
     image:
-      '/images/vast.png',
+      '/images/vastnation.png',
     tech: ['HTML', 'PayPal', 'CSS', 'JS', 'Node.js'],
-    github: 'https://github.com/thesaint-vin0/Vast-Nation',
-    demo: 'https://example.com',
+    github: 'https://github.com/thesaint-vin0/vastNation',
+    demo: 'https://vast-nation-mfxo.vercel.app/',
   },
   {
     id: 5,
