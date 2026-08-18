@@ -66,7 +66,7 @@ export const PROJECTS: Project[] = [
       '/images/vastnation.png',
     tech: ['HTML', 'PayPal', 'CSS', 'JS', 'Node.js'],
     github: 'https://github.com/thesaint-vin0/vastNation',
-    demo: 'https://vast-nation-mfxo.vercel.app/',
+    demo: 'https://vast-nation-qdy5.vercel.app/',
   },
   {
     id: 5,
